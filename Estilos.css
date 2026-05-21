@@ -45,14 +45,14 @@ nav a {
 
 .banner {
   text-align: center;
-  padding: 30px 15px;
+  padding: 10px 15px;
 }
 .banner h1 {
   font-size: 50px;
   color: white;
   font-weight: bold;
   display: inline-block;
-  padding:50px;
+  padding:15px 50px;
   border-radius: 10px;
   text-shadow: 2px 2px 5px black;
   
@@ -73,13 +73,13 @@ nav a {
     background-color: #908492;
     display: block;
     width: fit-content;
-    margin: 20px auto;
+    margin: 10px auto;
  padding: 15px 30px;
     border-radius: 10px;
     text-shadow:12px black;
 }
 .info{
-    margin-top: 30px;
+    margin-top: 10px;
 }
 
 .info span {
