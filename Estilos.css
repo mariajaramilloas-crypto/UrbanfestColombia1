@@ -12,7 +12,8 @@ header {
     background-size: cover;
     background-position: center;
     color: white;
-    height: 100vh;
+    min-height: 100vh;
+    
 } 
 nav{
     background-color:#4f055b;
@@ -44,7 +45,7 @@ nav a {
 
 .banner {
   text-align: center;
-  padding: 70px 15px;
+  padding: 30px 15px;
 }
 .banner h1 {
   font-size: 50px;
